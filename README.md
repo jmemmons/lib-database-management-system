@@ -27,12 +27,12 @@ alt="C++ First Semester Project" width="240" height="180" border="10" /></a>
 ### To run on Windows
 ---
 
-Simply access the `MS Visual Studio` folder for all relevant project files. You will need to also include the `files` folder in the same directory you will be working in so the program can access necessary dependecies. The file that runs the entire program is named `lib new.cpp` and will use `files/` to access relevant data.
+To open the project in Windows, you need to launch `Library Database Management System.sln` which is Visual Studio's solution file.  When I first built the project, I got an error telling me to use CRT_SECURE_NO_WARNINGS. If this occurs, Right-click on the project and go to Properties.  Under the C/C++ tab, go to Preprocessor and add `_CRT_SECURE_NO_WARNINGS` to the Preprocessor Definitions. I built this project on 64 bit Windows 7 with Visual Studio 2013.
 
 ### To run on Linux
 ---
 
-The file that runs the entire program is `library_DBMS.cpp` which uses the `/files/` folder for all relevant operations.
+The file that runs the entire program is `library_DBMS.cpp` which uses the `files` folder for all relevant operations.
 
   project
   
