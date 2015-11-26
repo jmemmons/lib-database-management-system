@@ -1,0 +1,76 @@
+Harry Potter 1#J K Rowling$1997
+Harry Potter 2#J K Rowling$1998
+Harry Potter 3#J K Rowling$1999
+Harry Potter 4#J K Rowling$2000
+Harry Potter 5#J K Rowling$2003
+Harry Potter 6#J K Rowling$2005
+Harry Potter 7#J K Rowling$2007
+Alchamist#Jeffery Archers$1988
+Fourth Estate#Jeffrey Archer$1997
+Kane and Abel#Jeffrey Archer$1979
+Prison Diary#Jeffrey Archer$2002
+Twilight#Stephenie Meyer$2005
+New Moon#Stephenie Meyer$2006
+Breaking Dawn#Stephenie Meyer$2008
+Monster Blood#R L Stine$1992
+Haunted Mask#R L Stine$1993
+Monster Blood#R L Stine$1994
+Deep Trouble#R L Stine$1994
+Ghost Beach#R L Stine$1994
+Monster Blood 3#R L Stine$1995
+Barking Ghost#R L Stine$1995
+Haunted Mask 2#R L Stine$1995
+Headless Ghost#R L Stine$1995
+Ghost Camp#R L Stine$1996
+Vampire Breath#R L Stine$1996
+Deep Trouble 2#R L Stine$1997
+Haunted School#R L Stine$1997
+Werewolf Skin#R L Stine$1997
+Monster Blood#R L Stine$1997
+Fright Camp#R L Stine$1998
+Brain Juice#R L Stine$1998
+Scream School#R L Stine$1999
+Mummy Walks#R L Stine$1999
+Haunted Car#R L Sine$1999
+Zombie School#R L Stine$1999
+Danger Time#R L Stine$2000
+Don't Scream#R L Stine$2012
+The Fourth K#Mario Puzo$1990
+Dark Arena#Mario Puzo$1955
+The Godfather#Mario Puzo$1969
+The Silician#Mario Puzo$1984
+Fools Die#Mario Puzo$1978
+The Last Don#Mario Puzo$1996
+The Family#Mario Puzo$2001
+Naked Face#Sidney Sheldon$1970
+Bloodline#Sidney Sheldon$1977
+Rage of Angels#Sidney Sheldon$1980
+Best Laid Plans#Sidney Sheldon$1997
+Angels & Demons#Dan Brown$2000
+Deception Point#Dan Brown$2001
+Acceptable Risk#Robin Cook$1914
+Mortal Fear#Robin Cook$1988
+Vital Signs#Robin Cook$1991
+Chromosome 6#Robin Cook$1997
+Lady Susan#JAne Austen$1794
+The Watson#Jane Austen$1804
+Mansfield Park#Jane Austen$1814
+Sanditon#Jane Austen$1817
+Persuasion#Jane Austen$1818
+Oliver Twist#Charles Dickens$1839
+Barnaby Rudge#Charles Dickens$1841
+Christmas Carol#Charles Dickens$1843
+The Chimes#Charles Dickens$1844
+Battle of Life#Charles Dickens$1846
+Dombey & Son#Charles Dickens$1848
+Bleak House#Charles Dickens$1853
+Hard Times#Charles Dickens$1854
+Little Dorrit#Charles Dickens$1857
+Jungle Book#Rudyard Kipling$1894
+Robinson Crusoe#Daniel Defoe$1719
+Sons & Lovers#D.H.Lawrence$1913
+Black Beauty#Anna Sewell$1877
+Wizard of Oz#L Frank Baum$1901
+Ginger Man#J.P.Donleavy$1955
+White Oleandear#Nicholas $2001
+Lovely Bones#Alice Sebold$2002
