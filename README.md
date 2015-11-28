@@ -17,7 +17,7 @@ John Emmons
 ### Usage
 ---
 
-To enter the database you must provide `project` as the password. Alternatively, to access the admin panel, the password is simply `admin`.
+To enter the database you must provide `project` as the password. To access the admin panel, the password is simply `admin`.
 
 For a detailed walkthrough with more information, please see the original author's video below. 
 
@@ -32,24 +32,10 @@ To open the project in Windows, you need to launch `Library Database Management 
 ### To run on Linux
 ---
 
-The file that runs the entire program is `library_DBMS.cpp` which uses the `files` folder for all relevant operations.
+Make sure you have CMake installed prior to building. To build the program make sure your terminal is in the directory, /libdatbase-management-system/Linux. Then execute the following commands:
 
-  project
-  
-    |
-    
-    +-- README.md
-    
-    |
-    
-    +-- library_DBMS.cpp
-    
-    |
-    
-    +-- files/
-    
-	    +-- Abdul Hannan.txt
-	    
-	    +-- Abdullah Nasim.txt
-	    
-	    +-- ...
+`cmake CMakeLists.txt`
+
+`make`
+
+Now that the program is built, you can execute `libDBMS` or `./libDBMS` to run.
