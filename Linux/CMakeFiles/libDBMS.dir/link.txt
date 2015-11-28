@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/libDBMS.dir/library_DBMS.cpp.o  -o libDBMS -rdynamic 

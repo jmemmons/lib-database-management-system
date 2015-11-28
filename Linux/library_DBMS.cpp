@@ -69,7 +69,7 @@ top2:
 
     //OPENING book.txt TO READ DATA OF BOOKS IN LIBRARY 
     ifstream InBook;
-    InBook.open ("files/books.txt");
+    InBook.open ("books.txt");
     do {
         //getting the date from the text file . Storing Book name in subscript [0]
         getline (InBook,book[book_code][0],'#');
@@ -87,7 +87,7 @@ top2:
     
     //OPENING student.txt TO READ DATA OF STUDENTS IN LIBRARY  
     ifstream InStudent;
-    InStudent.open ("files/students.txt");
+    InStudent.open ("students.txt");
     do {
         //Name of Student is stored in Subscript [0]
         getline (InStudent,student[student_code][0],'#');

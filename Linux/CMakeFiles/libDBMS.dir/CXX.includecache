@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jmemmons/Git/lib-database-management-system/Linux/library_DBMS.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+string
+-
+iomanip
+-
+fstream
+-
+sstream
+-
+time.h
+-
+
